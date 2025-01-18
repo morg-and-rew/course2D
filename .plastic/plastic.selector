@@ -1,0 +1,4 @@
+repository "course2D@MrAndr@cloud"
+  path "/"
+    br "/main"
+    co "/main"
